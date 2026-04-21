@@ -7,7 +7,7 @@ The attack vector leverages the legitimate Tomcat management functionality that 
 
 ## Contents
 * `/windows`: Implementation for Windows-based targets.
-* `/linux`: (Coming soon).
+* `/linux`: Implementation for Linux-based targets.
 
 ---
 *For educational and authorized security auditing purposes only.*
